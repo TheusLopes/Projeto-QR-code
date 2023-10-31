@@ -1,6 +1,6 @@
 # HTML / CSS 
 ## Projeto-QR-code
-Projeto desenvolvido usando a idéia do site Front end mentor.
+Projeto desenvolvido usando a ideia do site Front end mentor.
 
 A ideia do projeto foi desenvolver a tela da mesma forma em que foi apresentado.
 
